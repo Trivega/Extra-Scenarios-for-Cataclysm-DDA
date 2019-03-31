@@ -98,6 +98,3 @@ hit the fan.
 
 Basic installation is download folder and place into /data/mods within cata folder, and then when creating a new world, the pack will 
 show up under balances.
-
-
-
