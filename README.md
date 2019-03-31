@@ -19,13 +19,11 @@ Allows player to start the game at a shipwreck, and play as a Sailor who starts 
 
 
 -Lost and Found -
-Challenge scenario. Start in end room of Strange Temple allowing player to start game with an Artifact or two. Start as a new profession 
-that forces to the player to start with nothing, besides stuff chosen at creation. Idea is to let you start the game with an artifact, but 
-of course you will have to earn it by fighting way out of Temple.
+Challenge scenario. Start in the end room of Strange Temple allowing player to start the game with an Artifact or two. Start as a new profession that forces to the player to start with nothing, besides stuff chosen at creation. Idea is to let you start the game with an artifact, but of course you will have to earn it by fighting way out of the Temple.
 
 
 -Cashing Out-
-Challenge Scenario. Surrounded start at the Bank as a bank manager who has talking skills. Like the firestation scenario only at a bank.
+Challenge Scenario. Surrounded start at a Bank as a bank manager who has talking skills. Like the firestation scenario only at a bank.
 
 
 -Ghost in the Dark-
@@ -38,7 +36,7 @@ Abandon Barn Start as a farmer. For those who want to try a harvest moon rolepla
 
 
 -Ritual-
-Cathedral Basement start as a cultist. Allows the player to start in cathedral basement for fun, but have to play a cultist who comes
+Cathedral Basement start as a cultist. Allows the player to start in a cathedral basement for fun, but have to play a cultist who comes
 with just about nothing but two thematic traits.
 
 
@@ -79,19 +77,19 @@ Challenge Scenario. Start off in a junkyard type location as a profession with a
 
 
 -Half Shell Ninja-
-Get to spawn in Sewers as a half shell ninja. Can pick from 4 professions that aren't inspired by anything turtle related i swear.
+Get to spawn in Sewers as a half shell ninja. Can pick from 4 professions that aren't inspired by anything turtle related, I swear.
 
 
 -Strange Cabin-
-Lets you start off in a strange cabin in the middle of nowhere with a couple of weapons thats not inspired by a certain horror movie.
+Lets you start off in a strange cabin in the middle of nowhere with a couple of weapons that's not inspired by a certain horror movie.
 
 
 -Patient Zero-
-Challenge Start. Start off in a Feema Camp as a profession that has mutations chosen to create the story that you are playing as a half
-zombie. Lets you have a Feema Camp start. The mutations chosen are ones I feel help represent a half zombified human that becomes a
+Challenge Start. Start off in a FEMA Camp as a profession that has mutations chosen to create the story that you are playing as a half
+zombie. Lets you have a FEMA Camp start. The mutations chosen are ones I feel help represent a half zombified human that becomes a
 hunter of the dead. (Had to choose what i could given there's no zombie mutation tree yet.) Think daywalker only for zombies. Challenge
 comes from some of the negative traits of being a zombie like slow movement, and hunger. Title is chosen because I was aiming for a 
-patient zero scenario where you play as someone who started changing before the cataclysm started. The idea of starting in a Feema camp
+patient zero scenario where you play as someone who started changing before the cataclysm started. The idea of starting in a FEMA camp
 is so its not just another lab start, but one of the first people going through checkpoints that got quarantine when things started to
 hit the fan.
 
