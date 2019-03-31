@@ -2,8 +2,7 @@ Extra Scenarios for Cataclysm Dark Days Ahead
 
 
 This is a simple add-on that introduces several new Scenarios all of which give the player more starting location options in more varied
-interesting locations. Some are of the challenging variety, some come with their own thematic professions, and some simply give the   
-player a neat location to start at. 
+interesting locations. Some are of the challenging variety, some come with their own thematic professions, and some simply give the player a neat location to start at. 
 
 
 -----------------------------------------------------------------------------------------------------------------
