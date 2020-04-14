@@ -50,6 +50,10 @@ Start off in an antique store or pawn shop. For those who want to try a roleplay
 Challenge Scenario. Surrounded start in a gun shop as a gunstore owner who has skills, but starts with whatever spawns in his shop.
 
 
+-Storage Wars-
+Challenge Scenario. Surrounded start in storage units for those who like the randomness of whatever lies in them.
+
+
 -Backdraft-
 Challenge Scenario. Fire & drunk start at a delerict property or campground that could put you in the middle of nowhere. For those who
 want the bad day scenario without the infection & city start. Can play any profession.
