@@ -199,6 +199,42 @@
   },
 {
     "type": "start_location",
+    "ident": "large_storage_units_1",
+    "name": "Storage Units",
+    "target": "large_storage_units_1"
+  },
+{
+    "type": "start_location",
+    "ident": "large_storage_units_2",
+    "name": "Sorage Units",
+    "target": "large_storage_units_2"
+  },
+{
+    "type": "start_location",
+    "ident": "large_storage_units_3",
+    "name": "Storage Units",
+    "target": "large_storage_units_3"
+  },
+{
+    "type": "start_location",
+    "ident": "medium_storage_units_1",
+    "name": "Storage Units",
+    "target": "medium_storage_units_1"
+  },
+{
+    "type": "start_location",
+    "ident": "medium_storage_units_2",
+    "name": "Storage Units",
+    "target": "medium_storage_units_2"
+  },
+{
+    "type": "start_location",
+    "ident": "small_storage_units",
+    "name": "Storage Units",
+    "target": "small_storage_units"
+  },
+{
+    "type": "start_location",
     "ident": "cabin_strange",
     "name": "strange cabin",
     "target": "cabin_strange"

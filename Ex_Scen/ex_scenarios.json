@@ -105,6 +105,16 @@
    },
 {
     "type": "scenario",
+    "name": "X-Storage Wars",
+    "description": "Spending every dime you had buying up these repossessed storage units, you took a big gamble hoping to score big. Unfortantly, the dead might've had the same idea.",
+    "ident": "spstorage_scen",
+    "points": -2,
+    "allowed_locs": [ "large_storage_units_1", "large_storage_units_2", "large_storage_units_3", "medium_storage_units_1", "medium_storage_units_2", "small_storage_units" ],
+    "start_name": "Storage Units",
+    "flags": [ "LONE_START", "SUR_START" ]
+     },
+{
+    "type": "scenario",
     "name": "X-The Gun Shop",
     "description": "You always knew one day they would come for your guns....",
     "ident": "spgun_scen",
